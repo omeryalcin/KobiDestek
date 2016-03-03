@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.5, 8.5" name="argeDataClass">
+  <DataContextMoniker Name="/argeDataClassDataContext" />
+  <nestedChildShapes>
+    <classShape Id="79418dbb-d071-429b-a0c3-77c017283740" absoluteBounds="0.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/argeDataClassDataContext/Ar_Ge" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c957557b-8dc7-412d-99cd-d749e4b35927" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8fd8caa0-3d4e-4352-b7a4-00c15ed6d9a1" absoluteBounds="0.75, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/argeDataClassDataContext/endustri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c07fe3f-4678-404c-b968-5c79e9c3376b" absoluteBounds="0.76500000000000012, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7949a71d-41a6-4cfd-abec-9c40d1577754" absoluteBounds="3.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/argeDataClassDataContext/argePersonel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4a38a26-e0e2-4e89-9cb4-9b922f662a49" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fe7c9a05-5f23-47a8-9f0f-94cbf44801fb" absoluteBounds="3.75, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/argeDataClassDataContext/argeMakine" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a28ae71e-d94e-4740-8539-6553d494c704" absoluteBounds="3.765, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0348fe48-be75-4da1-ad0d-eae7a4390b82" absoluteBounds="6.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/argeDataClassDataContext/endustriPersonel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5f816f7e-d141-4ca2-880e-8700e92025ea" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="456f51e3-10f6-4738-93a5-0420e33471c3" absoluteBounds="6.75, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/argeDataClassDataContext/endustriMakine" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c89be258-7c30-4ae2-a5a2-509efe7ae536" absoluteBounds="6.765, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e25e2449-6556-494d-b8e2-14ee68946f9b" absoluteBounds="9.25, 0.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/argeDataClassDataContext/argeFuar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ccb7541-b505-44e0-96fd-ce57962256fa" absoluteBounds="9.265, 1.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

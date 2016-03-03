@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="kosgeb" Class="argeDataClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\kosgeb.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="KobiDestek.Properties.Settings" SettingsPropertyName="kosgebConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Ar_Ge" Member="Ar_Ges">
+    <Type Name="Ar_Ge">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ustLimit" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="oran" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="maksMiktar" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.endustri" Member="endustris">
+    <Type Name="endustri">
+      <Column Name="id" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ustLimit" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="oran" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="MaksMiktar" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.argePersonel" Member="argePersonels">
+    <Type Name="argePersonel">
+      <Column Name="PersonelID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Amount" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="TotalAmount" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.argeMakine" Member="argeMakines">
+    <Type Name="argeMakine">
+      <Column Name="MakineID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="hizName" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Amount" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.endustriPersonel" Member="endustriPersonels">
+    <Type Name="endustriPersonel">
+      <Column Name="PersonelID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Amount" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="TotalAmount" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.endustriMakine" Member="endustriMakines">
+    <Type Name="endustriMakine">
+      <Column Name="MakineID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="hizName" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Amount" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.argeFuar" Member="argeFuars">
+    <Type Name="argeFuar">
+      <Column Name="FuarId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="yurtIcDis" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="fuarName" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Amount" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

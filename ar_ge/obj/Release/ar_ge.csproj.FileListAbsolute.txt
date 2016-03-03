@@ -1,0 +1,15 @@
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\bin\Release\kosgeb.mdf
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\bin\Release\kosgeb_log.ldf
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\bin\Release\ar_ge.exe.config
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\bin\Release\ar_ge.exe
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\bin\Release\ar_ge.pdb
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.ArGeControl.resources
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.argeMain.resources
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.arge_bilgi.resources
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.EndustriControl.resources
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.mainApp.resources
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.endüstriyel_bilgi.resources
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.Properties.Resources.resources
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.csproj.GenerateResource.Cache
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.exe
+C:\Users\Omer\documents\visual studio 2015\Projects\ar_ge\ar_ge\obj\Release\ar_ge.pdb
